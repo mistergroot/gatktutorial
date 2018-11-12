@@ -1,0 +1,14 @@
+Species,Group,BioSample,Sample,Study,PRJ,SRA-notes,Gender,Publication,taxid,Notes,Link,,,,
+Macaca mulatta (reference),mulatta,SAMN07305139 ,SRP103539 ,SRP103539,PRJNA382404,Multiple,,,9544,"##Reference Genome comes from multiple individuals, from multiple locations",,,,,
+Macaca mulatta (Chinese),mulatta,SAMN05883701,SRS1762028,SRP092140,PRJNA345528,"Many available, chose one.",,"Population genomics of wild Chinese rhesus macaques reveals a dynamic demographic history and local adaptation, with implications for biomedical research.",9544,"Available subsp: mulatta, lasiotis, brevicaudus, littoralis, tcheliensis",https://www.ncbi.nlm.nih.gov/pubmed/30165519,,,,Southern China
+Macaca fascicularis,mulatta,SAMN00811240,SRS300124,SRP011089 ,PRJNA20409,Multiple,,,Unpublished data on NCBI? Much more data than we need for “low-coverage”,,,,2,*,"Multiple based on geographic location, island and as close to mulatta as possible in Southern China"
+Macaca fuscata,mulatta,SAMD00011919,DRS001583,DRP000620,PRJDB2459,,,,9543,,,,,Branched from mulatta,
+Macaca thibethana,sinica,SAMN02390221,SRS498543,SRP032525,PRJNA226187,,,Whole-Genome Sequencing of Tibetan Macaque (Macaca thibetana) Provides New Insight into the Macaque Evolutionary History,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032132/,,*,,
+Macaca assamensis,sinica,SAMN04316321,SRS1196892,SRP067118,PRJNA305009,One sample,,Ancient hybridization in stump-tailed macaque (Macaca arctoides) and admixture in macaques inferred from whole genome sequences,,,https://www.ncbi.nlm.nih.gov/pubmed/29614345,,*,,
+Macaca arctoides,sinica,SAMN04316319,SRS1196879,SRP067118,PRJNA305009,Two samples, chose largest one.,,Ancient hybridization in stump-tailed macaque (Macaca arctoides) and admixture in macaques inferred from whole genome sequences,,,https://www.ncbi.nlm.nih.gov/pubmed/29614345,,*,
+Macaca nemestrina,nemestrina,SAMN07503410,SRS2436621,SRP115775,PRJNA398198,,,Speciation over the edge: gene flow among non-human primate species across a formidable biogeographic barrier,,,https://www.ncbi.nlm.nih.gov/pubmed/29134059,,,,
+Macaca tonkeana,nemestrina,SAMN07503429,SRS2441459,SRP115775,PRJNA398198,,,Speciation over the edge: gene flow among non-human primate species across a formidable biogeographic barrier,,,https://www.ncbi.nlm.nih.gov/pubmed/29134059,,,,
+Macaca nigra,nemestrina,SAMN07503430,SRS2436633,SRP115775,PRJNA398198,,,Speciation over the edge: gene flow among non-human primate species across a formidable biogeographic barrier,,,https://www.ncbi.nlm.nih.gov/pubmed/29134059,,,,
+Macaca sylvanus,sylvanus,,,,,,,,,,,,,,
+Macaca silenus,nemestrina,,,,,,,,,,,,,,
+Papio anubis,NA,SAMN03073708,SRS742664,SRP026666,PRJNA54005,,,,,,,,,,
