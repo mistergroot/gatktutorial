@@ -1,4 +1,4 @@
-
+#FROM DR. SIMON MARTIN'S GENERAL GENOMICS TOOLS REPO https://github.com/simonhmartin/genomics_general/
 import argparse, sys, os, gzip
 import numpy as np
 
